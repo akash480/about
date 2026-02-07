@@ -1,6 +1,5 @@
-#About me 
+# 💫 About Me:
 Hey! I’m a passionate MERN Stack Developer who enjoys building full-stack web applications that are fast, scalable, and user-friendly. I love turning ideas into real products by working across both the frontend and backend.<br><br>I have experience working with HTML, CSS, React.js for building clean and responsive user interfaces, and Node.js with Express for creating powerful backend APIs. I’m also comfortable with databases like MongoDB and SQL, and I enjoy solving problems using C/C++ and Python.<br><br>I’m always curious to learn new technologies, improve my problem-solving skills, and write cleaner, more efficient code. I believe in learning by building and constantly challenging myself with new projects.
-
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ M V N Akash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashmvn12@gmail.com) 
 
